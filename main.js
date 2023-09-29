@@ -28,7 +28,7 @@ let gu = {
 };
 
 let sizes = [];
-let shift = [];
+let shift = []; //allocates points to empty array depending on properties
 let pushShift = () => {
   shift.push(
     Math.random() * Math.PI,
