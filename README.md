@@ -22,8 +22,8 @@ All testings were done through hosting the simulation on a local web application
 ## Sample Images
 Below are images taken from an interior and exterior view of the sphere.
 <p float='left'>
-  <img src="https://github.com/ryanyu131/sphere-simulation/blob/main/images/img1.png" width='500' height='300'>
-  <img src="https://github.com/ryanyu131/sphere-simulation/blob/main/images/img2.png" width='500' height='300'>
+  <img src="https://github.com/ryanyu131/sphere-simulation/blob/main/images/img1.png" width='419'>
+  <img src="https://github.com/ryanyu131/sphere-simulation/blob/main/images/img2.png" width='350'>
 </p>
 
 ## Test It Out!
